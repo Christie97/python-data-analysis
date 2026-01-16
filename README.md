@@ -19,6 +19,7 @@ exploratory data analysis, visualization, and insights using Python and SQL.
 - Job Market Analysis
 - Application Usage Trends
 - Bug Density Analysis
+
 python-data-analysis/
 ├── notebooks/
 │   ├── job-market-analysis.ipynb
