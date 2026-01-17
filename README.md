@@ -17,9 +17,9 @@ exploratory data analysis, visualization, and insights using Python and SQL.
 
 ## Projects (In Progress)
 - ### 📊 Job Market Analysis
-- Analyzed QA & Data Analyst job postings
-- Identified top skills, roles, locations, and experience demand
-- Tools: Python, Pandas, Matplotlib, Seaborn
+ Analyzed QA & Data Analyst job postings
+ Identified top skills, roles, locations, and experience demand
+ Tools: Python, Pandas, Matplotlib, Seaborn
 
 - Application Usage Trends
 - Bug Density Analysis
